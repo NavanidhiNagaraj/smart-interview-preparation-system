@@ -1,21 +1,15 @@
 # Smart Interview Preparation System
 
-## Overview
-An AI-powered interview preparation platform that helps students prepare for internships and jobs.
+Starter project scaffold.
 
-## Features
-- Resume analysis
-- Job description matching
-- AI-generated interview questions
+Features planned:
+- Resume upload (PDF/DOCX)
+- ATS score
 - Skill gap analysis
+- Interview question generation
 - Course recommendations
-- Resume improvement suggestions
+- Streamlit UI
 
-## Technologies
-- Python
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing (NLP)
-
-## Status
-🚧 Currently under development.
+Run:
+pip install -r requirements.txt
+streamlit run app.py
